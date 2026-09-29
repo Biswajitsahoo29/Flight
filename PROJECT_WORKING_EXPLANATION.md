@@ -1,6 +1,6 @@
 # Flight Booking Project: End-to-End Working Explanation
 
-This file explains how your project works from frontend to backend, how each part communicates, why each service exists, and what happens during the main user flows.
+This file explains how your project  works from frontend to backend, how each part communicates, why each service exists, and what happens during the main user flows.
 
 It is based on the current code inside this repository on July 23, 2026.
 
